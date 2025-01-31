@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Database_module_3_assignment_2",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
